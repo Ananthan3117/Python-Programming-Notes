@@ -18,14 +18,7 @@ This repository provides a comprehensive, beginner-friendly resource to learn Py
 
 ---
 
-## ✅ Who is this for?
-- **Beginners** with no prior coding experience.
-- Students who want to learn Python for **data science, web development, or automation**.
-- Anyone who wants to build a **strong Python foundation**.
-
----
-
 ## 🛠 How to Use This Guide
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Ananthan3117/Python-Programming-Notes.git
